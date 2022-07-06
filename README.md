@@ -1,3 +1,2 @@
 # BecomeQAAutomationCourseGL
 Education
-TestText
