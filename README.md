@@ -1,2 +1,2 @@
 # BecomeQAAutomationCourseGL
-Education
+My education
