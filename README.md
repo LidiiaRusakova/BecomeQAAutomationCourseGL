@@ -7,7 +7,7 @@ Each module has defined categories, that corresponds to the menues in the applic
 
 **HOW TO RUN TESTS**
 
-Some instructions how to run tests.
+Here will be added some instructions how to run tests.
 
 
 **Example of console command execution:**
